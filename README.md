@@ -12,14 +12,12 @@ By the end of this course, you will be ready create your own ML system and will 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Learn how to perform 3D reconstruction based on Structure from Motion 
-<LI>Implementing a street view-like experience with 2D geo-tagged images 
-<LI>Real-time head pose estimation and tracking 
-<LI>Perform face morphing, averaging, and swapping operations on images. 
-<LI>Build an Android selfie camera app with emotion-based selfie filters 
-<LI>Perform image stitching to stitch overlapping snaps of landscape images 
-<LI>Build an Android App to generate panoramas with HDR and AR capabilities Learn how to detect lanes and segment roads and track vehicles in a driving scene 
-<LI>Learn how to make a car learn how to drive itself based on imitation learning </LI></UL></DIV>
+<LI>Explore and make effective use of OpenCV's Machine Learning module.
+<LI>Master linear regression and regularization techniques.
+<LI>Classify objects such as flower species and pedestrians.
+<LI>Creatively build decision trees in OpenCV.
+<LI>Explore the effective use of support vector machines, boosted decision trees, and random forests.
+<LI>Learn to visualize data with OpenCV and Python.</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
